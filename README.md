@@ -8,8 +8,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 <br>
-- [About]()
-* [Portfolio Projects]()
-+ [Education]()
-- [Certifications]()
-* [Contacts]()
+- About
+- Portfolio Projects
+- Education
+- Certifications
+- Contacts
