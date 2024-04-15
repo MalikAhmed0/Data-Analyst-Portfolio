@@ -6,10 +6,10 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-##Table of Contents
-<hr>
-* [About]()
+## Table of Contents
+<br>
+- [About]()
 * [Portfolio Projects]()
-* [Education]()
-* [Certifications]()
++ [Education]()
+- [Certifications]()
 * [Contacts]()
