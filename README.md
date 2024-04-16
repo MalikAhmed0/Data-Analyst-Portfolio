@@ -14,7 +14,6 @@ This is a repository to showcase skills, share projects and track my progress in
 * [About]()
 * [Portfolio Projects]()
 * [Education]()
-* [Certifications]()
 * [Contacts]()
 ## Portfolio Projects
 
@@ -51,3 +50,18 @@ This is a repository to showcase skills, share projects and track my progress in
 **Skills:** SQL Data Exploration, Data Import and automation, Data Analysis and Visualization
 
 **Technologies:** SQL SERVER, Microsoft Excel, Microsoft Power BI
+<br>
+
+## Education
+
+**Superior University, Lahore:**  Bachelors of Computer Science Nov 2021 - May 2025
+
+**Concordia College, Lahore:**  Intermediate of Computer Science Aug 2019 - Mar 2021
+<br>
+
+
+## Contacts
+
+LinkedIN:  [@MalikAhmed](https://www.linkedin.com/in/malik-ahmed534e/)
+
+Email: malik534e@gmail.com
