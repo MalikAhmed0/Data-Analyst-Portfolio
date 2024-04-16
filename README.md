@@ -10,7 +10,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 <br>
-* [About]<br>
+* [About](https://github.com/MalikAhmed0/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#about)<br>
 * [Portfolio Projects]<br>
 * Education<br>
 * Certifications<br>
