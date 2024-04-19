@@ -41,7 +41,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 ### Global GDP Analysis by Country
-**Code:** [Automated GPD Summary Dashboard](https://github.com/MalikAhmed0/SQL-Automated-GDP-Dashboard)
+**Code:** [Automated SQL BI Dashboard](https://github.com/MalikAhmed0/SQL-Automated-GDP-Dashboard)
 
 **Goal:** Provide insights about the GDP and GDP per capita of countries around the world.
 
