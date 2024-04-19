@@ -52,6 +52,18 @@ This is a repository to showcase skills, share projects and track my progress in
 **Technologies:** SQL SERVER, Microsoft Excel, Microsoft Power BI
 <br>
 
+### COVID-19 Pademic Analysis
+**Code:** [Covid-19 Data Visualization](https://github.com/MalikAhmed0/COVID-19-Data-Analysis-Dashboard)
+
+**Goal:** Provide insights about the impact of the pandemic around the world.
+
+**Description:** The project involves exploring a large dataset to extract the ratio of infected people, vaccinations and fatalities.
+
+**Skills:** SQL Data Exploration, Data Import and transformation, Data Analysis and Visualization
+
+**Technologies:** SQL SERVER, Microsoft Excel, Microsoft Power BI
+<br>
+
 ## Education
 
 **Superior University, Lahore:**  Bachelors of Computer Science Nov 2021 - May 2025
